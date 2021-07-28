@@ -1,0 +1,140 @@
+.Part{
+display: flex;
+
+margin-top: 40px;
+height: 700px;
+}
+
+.First{
+    background-image: url(food-network-main/images/shapes/bg2.png);
+    background-repeat: no-repeat;
+}
+.First img{
+width: 70%;
+height: 500px;
+}
+.second{
+    background-image:url(food-network-main/images/shapes/newFrame58.png);
+width: 100%;
+
+    
+  
+}
+.half-part{
+    width: 40%;
+    float: left;
+    margin: auto auto;
+    
+    
+}
+.Rec{
+    width: 400px;
+    height: 200px;
+    
+    margin: 0 auto;
+
+}
+.Third{
+    text-align: center;
+margin-top: 30px;
+}
+
+
+
+
+.Card{
+    width: 20%;
+    height: 330px;
+    padding: 20px;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+
+.Sob{
+    margin-left: 280px;
+   
+}
+
+
+
+.Forth{
+    
+    height: 400px;
+}
+
+
+h4{
+  margin: 0;
+  padding: 0;
+}
+
+.Fifth{
+    margin-top: 100px;
+    
+    display: flex;
+    height: 200px;
+    margin-bottom: 40px;
+text-align: center;
+width: 1000px;
+box-shadow: 2px 2px 2px 2px rgb(146, 146, 146);
+border-radius: 10px;
+margin-left: 300px;
+justify-content: center;
+ 
+}
+h2{
+    font-weight: 900;
+    margin: 0;
+
+}
+.portion{
+    width: 33.3%;
+    margin-top: 55px;
+}
+.portion p{
+    margin: 0;
+}
+.second img{
+width: 50%;
+height: 400px;
+
+}
+h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(88, 86, 86);
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.btn{
+    background-image: linear-gradient(#da4408,rgb(253, 126, 7));
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid orangered;
+    box-shadow: 1px 1px gray;
+}
+.half-part a{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+}
+
+.Sixth{
+height: 300px;
+background-color: rgb(7, 7, 7);
+text-align: center;
+
+}
+.foot{
+    margin-top: 40px;
+    padding-top: 50px;
+    
+}
